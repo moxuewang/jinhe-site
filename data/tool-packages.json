@@ -1,0 +1,2600 @@
+{
+  "schemaVersion": 1,
+  "source": "锦盒官方",
+  "appToolCount": 287,
+  "extensibleToolCount": 77,
+  "tools": [
+    {
+      "id": "unicode",
+      "name": "Unicode",
+      "version": "1.0.5",
+      "category": "文本",
+      "group": "编码解码",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "watermark",
+      "name": "图片水印",
+      "version": "1.0.6",
+      "category": "图片",
+      "group": "图文创作",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "dialogueboard",
+      "name": "对话分镜",
+      "version": "1.0.0",
+      "category": "图片",
+      "group": "图文创作",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "text2img",
+      "name": "文字转长图",
+      "version": "1.0.6",
+      "category": "图片",
+      "group": "图文创作",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "pixelart",
+      "name": "点阵像素画",
+      "version": "1.0.7",
+      "category": "图片",
+      "group": "图文创作",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "drawpad",
+      "name": "画板",
+      "version": "1.0.6",
+      "category": "图片",
+      "group": "图文创作",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "barcode",
+      "name": "条形码生成",
+      "version": "1.0.9",
+      "category": "图片",
+      "group": "图片生成",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "wallpaper",
+      "name": "渐变壁纸",
+      "version": "1.0.6",
+      "category": "图片",
+      "group": "图片生成",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "chinesecolors",
+      "name": "中国传统色",
+      "version": "1.0.6",
+      "category": "图片",
+      "group": "颜色配色",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "palettegen",
+      "name": "配色生成器",
+      "version": "1.0.7",
+      "category": "图片",
+      "group": "颜色配色",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "tdee",
+      "name": "代谢计算器",
+      "version": "1.0.8",
+      "category": "计算",
+      "group": "健康计算",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "health",
+      "name": "健康计算",
+      "version": "1.0.9",
+      "category": "计算",
+      "group": "健康计算",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "aasplit",
+      "name": "AA 分摊",
+      "version": "1.0.8",
+      "category": "计算",
+      "group": "日常算账",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "ioscalc",
+      "name": "iOS 计算器",
+      "version": "1.2.7",
+      "category": "计算",
+      "group": "日常算账",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "taxcalc",
+      "name": "个税计算器",
+      "version": "1.0.9",
+      "category": "计算",
+      "group": "理财计算",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "mortgage",
+      "name": "房贷计算器",
+      "version": "1.1.9",
+      "category": "计算",
+      "group": "理财计算",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "eleccalc",
+      "name": "电费计算",
+      "version": "1.0.6",
+      "category": "计算",
+      "group": "理财计算",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "apk1",
+      "name": "APK.1 安装",
+      "version": "1.0.5",
+      "category": "效率",
+      "group": "安装传输",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "webapk",
+      "name": "网页打包",
+      "version": "1.0.6",
+      "category": "效率",
+      "group": "安装传输",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "mdnote",
+      "name": "MD 笔记",
+      "version": "1.0.10",
+      "category": "效率",
+      "group": "待办笔记",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "mindmap",
+      "name": "思维导图",
+      "version": "1.0.5",
+      "category": "效率",
+      "group": "待办笔记",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "filedesk",
+      "name": "文件工作室",
+      "version": "1.0.0",
+      "category": "效率",
+      "group": "文件整理",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "filemanifest",
+      "name": "文件清单",
+      "version": "1.0.0",
+      "category": "效率",
+      "group": "文件整理",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "filemanager",
+      "name": "文件管家",
+      "version": "1.1.0",
+      "category": "效率",
+      "group": "文件整理",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "manifestdiff",
+      "name": "清单对比",
+      "version": "1.0.0",
+      "category": "效率",
+      "group": "文件整理",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "pdf2txt",
+      "name": "PDF 转 TXT",
+      "version": "1.0.0",
+      "category": "效率",
+      "group": "文档提词",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "pomodoro",
+      "name": "番茄钟",
+      "version": "1.1.4",
+      "category": "效率",
+      "group": "时间管理",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "eartest",
+      "name": "耳龄测试",
+      "version": "1.0.6",
+      "category": "媒体",
+      "group": "录音声学",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "audiolab",
+      "name": "音频实验室",
+      "version": "1.2.6",
+      "category": "媒体",
+      "group": "录音声学",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "instrument_box",
+      "name": "乐器盒",
+      "version": "2.1.1",
+      "category": "媒体",
+      "group": "音乐声音",
+      "author": "锦盒"
+    },
+    {
+      "id": "score_player",
+      "name": "乐谱播放",
+      "version": "2.1.0",
+      "category": "媒体",
+      "group": "音乐声音",
+      "author": "锦盒"
+    },
+    {
+      "id": "whitenoise",
+      "name": "白噪音",
+      "version": "1.0.9",
+      "category": "媒体",
+      "group": "音乐声音",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "metronome",
+      "name": "节拍器",
+      "version": "1.0.5",
+      "category": "媒体",
+      "group": "音乐声音",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "super_band",
+      "name": "超级乐器",
+      "version": "2.1.0",
+      "category": "媒体",
+      "group": "音乐声音",
+      "author": "锦盒"
+    },
+    {
+      "id": "piano",
+      "name": "随身钢琴",
+      "version": "1.1.10",
+      "category": "媒体",
+      "group": "音乐声音",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "weight",
+      "name": "体重记录",
+      "version": "1.0.8",
+      "category": "生活",
+      "group": "健康记录",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "water",
+      "name": "喝水记录",
+      "version": "1.0.5",
+      "category": "生活",
+      "group": "健康记录",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "sleepcalc",
+      "name": "睡眠周期",
+      "version": "1.0.4",
+      "category": "生活",
+      "group": "健康记录",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "worldclock",
+      "name": "世界时钟",
+      "version": "1.0.7",
+      "category": "生活",
+      "group": "日期提醒",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "days",
+      "name": "倒数日",
+      "version": "1.0.9",
+      "category": "生活",
+      "group": "日期提醒",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "screentest",
+      "name": "屏幕检测",
+      "version": "1.0.8",
+      "category": "生活",
+      "group": "硬件传感",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "screenlight",
+      "name": "柔光补光灯",
+      "version": "1.0.5",
+      "category": "生活",
+      "group": "硬件传感",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "relatives",
+      "name": "亲戚称呼",
+      "version": "1.0.9",
+      "category": "生活",
+      "group": "记账参考",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "sizechart",
+      "name": "尺码对照",
+      "version": "1.0.3",
+      "category": "生活",
+      "group": "记账参考",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "ledger",
+      "name": "记账本",
+      "version": "1.1.0",
+      "category": "生活",
+      "group": "记账参考",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "passbook",
+      "name": "密码本",
+      "version": "1.1.1",
+      "category": "生活",
+      "group": "证件密码",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "idcard",
+      "name": "身份证解析",
+      "version": "1.0.5",
+      "category": "生活",
+      "group": "证件密码",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "bankbin",
+      "name": "银行卡BIN",
+      "version": "1.0.8",
+      "category": "生活",
+      "group": "证件密码",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "fuelcalc",
+      "name": "油耗计算",
+      "version": "1.0.8",
+      "category": "生活",
+      "group": "车辆出行",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "carplate",
+      "name": "车牌归属地",
+      "version": "1.0.6",
+      "category": "生活",
+      "group": "车辆出行",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "reaction",
+      "name": "反应力测试",
+      "version": "1.0.4",
+      "category": "娱乐",
+      "group": "手速反应",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "cps",
+      "name": "手速测试",
+      "version": "1.0.5",
+      "category": "娱乐",
+      "group": "手速反应",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "tierlist",
+      "name": "从夯到拉",
+      "version": "1.0.9",
+      "category": "娱乐",
+      "group": "整活决策",
+      "author": "锦盒"
+    },
+    {
+      "id": "woodenfish",
+      "name": "电子木鱼",
+      "version": "1.0.6",
+      "category": "娱乐",
+      "group": "整活决策",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "g2048",
+      "name": "2048",
+      "version": "1.1.4",
+      "category": "娱乐",
+      "group": "益智游戏",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "g24",
+      "name": "24 点",
+      "version": "1.0.5",
+      "category": "娱乐",
+      "group": "益智游戏",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "gomoku",
+      "name": "五子棋",
+      "version": "1.0.7",
+      "category": "娱乐",
+      "group": "益智游戏",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "mines",
+      "name": "扫雷",
+      "version": "1.1.7",
+      "category": "娱乐",
+      "group": "益智游戏",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "fifteen",
+      "name": "数字华容道",
+      "version": "1.1.6",
+      "category": "娱乐",
+      "group": "益智游戏",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "sudoku",
+      "name": "数独",
+      "version": "1.1.6",
+      "category": "娱乐",
+      "group": "益智游戏",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "wordle",
+      "name": "猜单词",
+      "version": "1.0.3",
+      "category": "娱乐",
+      "group": "益智游戏",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "riddles",
+      "name": "谜语大全",
+      "version": "1.0.4",
+      "category": "娱乐",
+      "group": "益智游戏",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "snake",
+      "name": "贪吃蛇",
+      "version": "1.1.4",
+      "category": "娱乐",
+      "group": "益智游戏",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "memory",
+      "name": "数字记忆",
+      "version": "1.0.3",
+      "category": "娱乐",
+      "group": "记忆专注",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "schulte",
+      "name": "舒尔特方格",
+      "version": "1.0.8",
+      "category": "娱乐",
+      "group": "记忆专注",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "simon",
+      "name": "记忆彩灯",
+      "version": "1.1.2",
+      "category": "娱乐",
+      "group": "记忆专注",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "sign",
+      "name": "每日一签",
+      "version": "1.0.6",
+      "category": "娱乐",
+      "group": "骰子抽签",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "answers",
+      "name": "答案之书",
+      "version": "1.0.5",
+      "category": "娱乐",
+      "group": "骰子抽签",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "dice",
+      "name": "跑团骰子",
+      "version": "1.0.7",
+      "category": "娱乐",
+      "group": "骰子抽签",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "coursetable",
+      "name": "课程表",
+      "version": "1.0.8",
+      "category": "学习",
+      "group": "校园课程",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "elements",
+      "name": "元素周期表",
+      "version": "1.0.6",
+      "category": "学习",
+      "group": "理科速查",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "typing",
+      "name": "打字测速",
+      "version": "1.0.6",
+      "category": "学习",
+      "group": "语言输入",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "dailyeng",
+      "name": "每日英语",
+      "version": "1.0.6",
+      "category": "学习",
+      "group": "语言输入",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "hitokoto",
+      "name": "一言",
+      "version": "1.0.5",
+      "category": "联网",
+      "group": "公开数据",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "speedtest",
+      "name": "网速测试",
+      "version": "1.0.3",
+      "category": "联网",
+      "group": "网络工具",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "downloader",
+      "name": "下载器",
+      "version": "1.0.5",
+      "category": "联网",
+      "group": "网络文件",
+      "author": "锦盒官方"
+    },
+    {
+      "id": "exchrate",
+      "name": "汇率换算",
+      "version": "1.0.7",
+      "category": "联网",
+      "group": "行情财经",
+      "author": "锦盒官方"
+    }
+  ],
+  "packages": [
+    {
+      "id": "unicode",
+      "kind": "single",
+      "name": "Unicode",
+      "group": "编码解码",
+      "category": "文本",
+      "toolIds": [
+        "unicode"
+      ],
+      "toolCount": 1,
+      "bytes": 7973,
+      "sha256": "6e7f8a611c27584e7ba84e0be8029d25cf2afcbfb451bd1eea5f8cba937b3ad1",
+      "relativePath": "文本/Unicode-unicode/Unicode-unicode.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E6%96%87%E6%9C%AC/Unicode-unicode/Unicode-unicode.zip"
+    },
+    {
+      "id": "watermark",
+      "kind": "single",
+      "name": "图片水印",
+      "group": "图文创作",
+      "category": "图片",
+      "toolIds": [
+        "watermark"
+      ],
+      "toolCount": 1,
+      "bytes": 12495,
+      "sha256": "8ba8949f6b01affb6050c31529306610048dec6d7ee86e103e8e3a3493268de7",
+      "relativePath": "图片/图片水印-watermark/图片水印-watermark.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%87%E6%B0%B4%E5%8D%B0-watermark/%E5%9B%BE%E7%89%87%E6%B0%B4%E5%8D%B0-watermark.zip"
+    },
+    {
+      "id": "dialogueboard",
+      "kind": "single",
+      "name": "对话分镜",
+      "group": "图文创作",
+      "category": "图片",
+      "toolIds": [
+        "dialogueboard"
+      ],
+      "toolCount": 1,
+      "bytes": 14603,
+      "sha256": "115cc4da04ae22a536b45c2dd59e3ef57d85d8c179e9580f88f646aa16d278cd",
+      "relativePath": "图片/对话分镜-dialogueboard/对话分镜-dialogueboard.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%9B%BE%E7%89%87/%E5%AF%B9%E8%AF%9D%E5%88%86%E9%95%9C-dialogueboard/%E5%AF%B9%E8%AF%9D%E5%88%86%E9%95%9C-dialogueboard.zip"
+    },
+    {
+      "id": "text2img",
+      "kind": "single",
+      "name": "文字转长图",
+      "group": "图文创作",
+      "category": "图片",
+      "toolIds": [
+        "text2img"
+      ],
+      "toolCount": 1,
+      "bytes": 11454,
+      "sha256": "342dadb48d8482c9ef48467380e7966c319eea83d91ffc5b490aa1bbe9ffb7c8",
+      "relativePath": "图片/文字转长图-text2img/文字转长图-text2img.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%9B%BE%E7%89%87/%E6%96%87%E5%AD%97%E8%BD%AC%E9%95%BF%E5%9B%BE-text2img/%E6%96%87%E5%AD%97%E8%BD%AC%E9%95%BF%E5%9B%BE-text2img.zip"
+    },
+    {
+      "id": "pixelart",
+      "kind": "single",
+      "name": "点阵像素画",
+      "group": "图文创作",
+      "category": "图片",
+      "toolIds": [
+        "pixelart"
+      ],
+      "toolCount": 1,
+      "bytes": 11189,
+      "sha256": "19a6cd10078786601fb3f162fb627ac9847080b76fcd0ce587df20cde8fdd359",
+      "relativePath": "图片/点阵像素画-pixelart/点阵像素画-pixelart.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%9B%BE%E7%89%87/%E7%82%B9%E9%98%B5%E5%83%8F%E7%B4%A0%E7%94%BB-pixelart/%E7%82%B9%E9%98%B5%E5%83%8F%E7%B4%A0%E7%94%BB-pixelart.zip"
+    },
+    {
+      "id": "drawpad",
+      "kind": "single",
+      "name": "画板",
+      "group": "图文创作",
+      "category": "图片",
+      "toolIds": [
+        "drawpad"
+      ],
+      "toolCount": 1,
+      "bytes": 9817,
+      "sha256": "18d89f5bacdb877f3fe1ebe1bef665b1e47ce1fefa0c73e19bc6c72c983c23ff",
+      "relativePath": "图片/画板-drawpad/画板-drawpad.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%9B%BE%E7%89%87/%E7%94%BB%E6%9D%BF-drawpad/%E7%94%BB%E6%9D%BF-drawpad.zip"
+    },
+    {
+      "id": "barcode",
+      "kind": "single",
+      "name": "条形码生成",
+      "group": "图片生成",
+      "category": "图片",
+      "toolIds": [
+        "barcode"
+      ],
+      "toolCount": 1,
+      "bytes": 13136,
+      "sha256": "d515b230e9d7b6c876fa8dc8df5c59cac29a2b3f4e81029d2e763d6318c12abe",
+      "relativePath": "图片/条形码生成-barcode/条形码生成-barcode.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%9B%BE%E7%89%87/%E6%9D%A1%E5%BD%A2%E7%A0%81%E7%94%9F%E6%88%90-barcode/%E6%9D%A1%E5%BD%A2%E7%A0%81%E7%94%9F%E6%88%90-barcode.zip"
+    },
+    {
+      "id": "wallpaper",
+      "kind": "single",
+      "name": "渐变壁纸",
+      "group": "图片生成",
+      "category": "图片",
+      "toolIds": [
+        "wallpaper"
+      ],
+      "toolCount": 1,
+      "bytes": 13290,
+      "sha256": "6102e30041b2ddd985702a0aa0cf76d483d6bcd41b2bd9012ee3d6288c140af7",
+      "relativePath": "图片/渐变壁纸-wallpaper/渐变壁纸-wallpaper.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%9B%BE%E7%89%87/%E6%B8%90%E5%8F%98%E5%A3%81%E7%BA%B8-wallpaper/%E6%B8%90%E5%8F%98%E5%A3%81%E7%BA%B8-wallpaper.zip"
+    },
+    {
+      "id": "chinesecolors",
+      "kind": "single",
+      "name": "中国传统色",
+      "group": "颜色配色",
+      "category": "图片",
+      "toolIds": [
+        "chinesecolors"
+      ],
+      "toolCount": 1,
+      "bytes": 9199,
+      "sha256": "b7b7b312f821196dba6ca1dafe7a3dfe56e07ed109e959f1b73045f792047c82",
+      "relativePath": "图片/中国传统色-chinesecolors/中国传统色-chinesecolors.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%9B%BE%E7%89%87/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2-chinesecolors/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2-chinesecolors.zip"
+    },
+    {
+      "id": "palettegen",
+      "kind": "single",
+      "name": "配色生成器",
+      "group": "颜色配色",
+      "category": "图片",
+      "toolIds": [
+        "palettegen"
+      ],
+      "toolCount": 1,
+      "bytes": 11345,
+      "sha256": "322beac62e06fcaad8ce95f1825e21bbd92515c5ea5c4cb649963f399eb256f2",
+      "relativePath": "图片/配色生成器-palettegen/配色生成器-palettegen.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%9B%BE%E7%89%87/%E9%85%8D%E8%89%B2%E7%94%9F%E6%88%90%E5%99%A8-palettegen/%E9%85%8D%E8%89%B2%E7%94%9F%E6%88%90%E5%99%A8-palettegen.zip"
+    },
+    {
+      "id": "tdee",
+      "kind": "single",
+      "name": "代谢计算器",
+      "group": "健康计算",
+      "category": "计算",
+      "toolIds": [
+        "tdee"
+      ],
+      "toolCount": 1,
+      "bytes": 8189,
+      "sha256": "166cf4cc106b4095f946dc1e9ce5494422a167985c72880fb60f36e2664e7670",
+      "relativePath": "计算/代谢计算器-tdee/代谢计算器-tdee.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E8%AE%A1%E7%AE%97/%E4%BB%A3%E8%B0%A2%E8%AE%A1%E7%AE%97%E5%99%A8-tdee/%E4%BB%A3%E8%B0%A2%E8%AE%A1%E7%AE%97%E5%99%A8-tdee.zip"
+    },
+    {
+      "id": "health",
+      "kind": "single",
+      "name": "健康计算",
+      "group": "健康计算",
+      "category": "计算",
+      "toolIds": [
+        "health"
+      ],
+      "toolCount": 1,
+      "bytes": 12202,
+      "sha256": "66753dee5789e94a4e7ccc12bc03789a5ee47c37a4ca8dd0690bf5c8a88a8aaa",
+      "relativePath": "计算/健康计算-health/健康计算-health.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E8%AE%A1%E7%AE%97/%E5%81%A5%E5%BA%B7%E8%AE%A1%E7%AE%97-health/%E5%81%A5%E5%BA%B7%E8%AE%A1%E7%AE%97-health.zip"
+    },
+    {
+      "id": "aasplit",
+      "kind": "single",
+      "name": "AA 分摊",
+      "group": "日常算账",
+      "category": "计算",
+      "toolIds": [
+        "aasplit"
+      ],
+      "toolCount": 1,
+      "bytes": 10727,
+      "sha256": "7a061d494e2f3b4e7d2d5d81c708ff1e9c7d851856fadf1e75f2f959e26b939f",
+      "relativePath": "计算/AA 分摊-aasplit/AA 分摊-aasplit.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E8%AE%A1%E7%AE%97/AA%20%E5%88%86%E6%91%8A-aasplit/AA%20%E5%88%86%E6%91%8A-aasplit.zip"
+    },
+    {
+      "id": "ioscalc",
+      "kind": "single",
+      "name": "iOS 计算器",
+      "group": "日常算账",
+      "category": "计算",
+      "toolIds": [
+        "ioscalc"
+      ],
+      "toolCount": 1,
+      "bytes": 9445,
+      "sha256": "0199a09b01a444088e176baab9131b300fdb26ebf34870c2dca2ca457648edb4",
+      "relativePath": "计算/iOS 计算器-ioscalc/iOS 计算器-ioscalc.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E8%AE%A1%E7%AE%97/iOS%20%E8%AE%A1%E7%AE%97%E5%99%A8-ioscalc/iOS%20%E8%AE%A1%E7%AE%97%E5%99%A8-ioscalc.zip"
+    },
+    {
+      "id": "taxcalc",
+      "kind": "single",
+      "name": "个税计算器",
+      "group": "理财计算",
+      "category": "计算",
+      "toolIds": [
+        "taxcalc"
+      ],
+      "toolCount": 1,
+      "bytes": 12976,
+      "sha256": "fc09cc6da4c57ca1c0e5cd4633ea06b4dad8a27ff9a465e008dacbd580016ec6",
+      "relativePath": "计算/个税计算器-taxcalc/个税计算器-taxcalc.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E8%AE%A1%E7%AE%97/%E4%B8%AA%E7%A8%8E%E8%AE%A1%E7%AE%97%E5%99%A8-taxcalc/%E4%B8%AA%E7%A8%8E%E8%AE%A1%E7%AE%97%E5%99%A8-taxcalc.zip"
+    },
+    {
+      "id": "mortgage",
+      "kind": "single",
+      "name": "房贷计算器",
+      "group": "理财计算",
+      "category": "计算",
+      "toolIds": [
+        "mortgage"
+      ],
+      "toolCount": 1,
+      "bytes": 13248,
+      "sha256": "e7578bc2dd8091d2ef361bbc2fefc3926129c98eb6830ca329be2e4056d1bc86",
+      "relativePath": "计算/房贷计算器-mortgage/房贷计算器-mortgage.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E8%AE%A1%E7%AE%97/%E6%88%BF%E8%B4%B7%E8%AE%A1%E7%AE%97%E5%99%A8-mortgage/%E6%88%BF%E8%B4%B7%E8%AE%A1%E7%AE%97%E5%99%A8-mortgage.zip"
+    },
+    {
+      "id": "eleccalc",
+      "kind": "single",
+      "name": "电费计算",
+      "group": "理财计算",
+      "category": "计算",
+      "toolIds": [
+        "eleccalc"
+      ],
+      "toolCount": 1,
+      "bytes": 8160,
+      "sha256": "9c72935ffac1794ee98a478316f2b1f7074b81e5fe2eb97082433ebcd1145233",
+      "relativePath": "计算/电费计算-eleccalc/电费计算-eleccalc.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E8%AE%A1%E7%AE%97/%E7%94%B5%E8%B4%B9%E8%AE%A1%E7%AE%97-eleccalc/%E7%94%B5%E8%B4%B9%E8%AE%A1%E7%AE%97-eleccalc.zip"
+    },
+    {
+      "id": "apk1",
+      "kind": "single",
+      "name": "APK.1 安装",
+      "group": "安装传输",
+      "category": "效率",
+      "toolIds": [
+        "apk1"
+      ],
+      "toolCount": 1,
+      "bytes": 6131,
+      "sha256": "617f728c32ed1c3137069fca64299e58175e020ca951c1c5f160ac20f12fd3c0",
+      "relativePath": "效率/APK.1 安装-apk1/APK.1 安装-apk1.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E6%95%88%E7%8E%87/APK.1%20%E5%AE%89%E8%A3%85-apk1/APK.1%20%E5%AE%89%E8%A3%85-apk1.zip"
+    },
+    {
+      "id": "webapk",
+      "kind": "single",
+      "name": "网页打包",
+      "group": "安装传输",
+      "category": "效率",
+      "toolIds": [
+        "webapk"
+      ],
+      "toolCount": 1,
+      "bytes": 6484,
+      "sha256": "c9d49358824e06d31c9d9001adf8c9c397ba0ee72c4c4cfa43e4d89f0de1ab3f",
+      "relativePath": "效率/网页打包-webapk/网页打包-webapk.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E6%95%88%E7%8E%87/%E7%BD%91%E9%A1%B5%E6%89%93%E5%8C%85-webapk/%E7%BD%91%E9%A1%B5%E6%89%93%E5%8C%85-webapk.zip"
+    },
+    {
+      "id": "mdnote",
+      "kind": "single",
+      "name": "MD 笔记",
+      "group": "待办笔记",
+      "category": "效率",
+      "toolIds": [
+        "mdnote"
+      ],
+      "toolCount": 1,
+      "bytes": 13691,
+      "sha256": "b792004b5f06aade8725f789b6f5d82e0b3c2a66598d04b7bc5e8518a1a57cc1",
+      "relativePath": "效率/MD 笔记-mdnote/MD 笔记-mdnote.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E6%95%88%E7%8E%87/MD%20%E7%AC%94%E8%AE%B0-mdnote/MD%20%E7%AC%94%E8%AE%B0-mdnote.zip"
+    },
+    {
+      "id": "mindmap",
+      "kind": "single",
+      "name": "思维导图",
+      "group": "待办笔记",
+      "category": "效率",
+      "toolIds": [
+        "mindmap"
+      ],
+      "toolCount": 1,
+      "bytes": 12645,
+      "sha256": "8b9fc3c4d21ae5079992e9870727e24e6876dafdee92f27db083c08acbdfada8",
+      "relativePath": "效率/思维导图-mindmap/思维导图-mindmap.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E6%95%88%E7%8E%87/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE-mindmap/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE-mindmap.zip"
+    },
+    {
+      "id": "filedesk",
+      "kind": "single",
+      "name": "文件工作室",
+      "group": "文件整理",
+      "category": "效率",
+      "toolIds": [
+        "filedesk"
+      ],
+      "toolCount": 1,
+      "bytes": 7865,
+      "sha256": "b5273622d0c014207a3cb534a590cacd82c69cb0e2b4977f36e8962301e599a6",
+      "relativePath": "效率/文件工作室-filedesk/文件工作室-filedesk.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E6%95%88%E7%8E%87/%E6%96%87%E4%BB%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4-filedesk/%E6%96%87%E4%BB%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4-filedesk.zip"
+    },
+    {
+      "id": "filemanifest",
+      "kind": "single",
+      "name": "文件清单",
+      "group": "文件整理",
+      "category": "效率",
+      "toolIds": [
+        "filemanifest"
+      ],
+      "toolCount": 1,
+      "bytes": 11578,
+      "sha256": "50c2652f3e0695c0264ee5b764b71669279a7ad108e5af473fe75f4cd928b066",
+      "relativePath": "效率/文件清单-filemanifest/文件清单-filemanifest.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E6%95%88%E7%8E%87/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95-filemanifest/%E6%96%87%E4%BB%B6%E6%B8%85%E5%8D%95-filemanifest.zip"
+    },
+    {
+      "id": "filemanager",
+      "kind": "single",
+      "name": "文件管家",
+      "group": "文件整理",
+      "category": "效率",
+      "toolIds": [
+        "filemanager"
+      ],
+      "toolCount": 1,
+      "bytes": 16765,
+      "sha256": "24906869628976a8c8cf0cf377b45835ea052ea7b84473148dc000e5225738d7",
+      "relativePath": "效率/文件管家-filemanager/文件管家-filemanager.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E6%95%88%E7%8E%87/%E6%96%87%E4%BB%B6%E7%AE%A1%E5%AE%B6-filemanager/%E6%96%87%E4%BB%B6%E7%AE%A1%E5%AE%B6-filemanager.zip"
+    },
+    {
+      "id": "manifestdiff",
+      "kind": "single",
+      "name": "清单对比",
+      "group": "文件整理",
+      "category": "效率",
+      "toolIds": [
+        "manifestdiff"
+      ],
+      "toolCount": 1,
+      "bytes": 11353,
+      "sha256": "e1003b9d0521c2f5806835a76662913e2e7e8c52d273661c163dfde6557e48f3",
+      "relativePath": "效率/清单对比-manifestdiff/清单对比-manifestdiff.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E6%95%88%E7%8E%87/%E6%B8%85%E5%8D%95%E5%AF%B9%E6%AF%94-manifestdiff/%E6%B8%85%E5%8D%95%E5%AF%B9%E6%AF%94-manifestdiff.zip"
+    },
+    {
+      "id": "pdf2txt",
+      "kind": "single",
+      "name": "PDF 转 TXT",
+      "group": "文档提词",
+      "category": "效率",
+      "toolIds": [
+        "pdf2txt"
+      ],
+      "toolCount": 1,
+      "bytes": 19758,
+      "sha256": "d6a788436304337e539452ae4fdb5e3aef6812be6f851114c93a9567e3e4f62b",
+      "relativePath": "效率/PDF 转 TXT-pdf2txt/PDF 转 TXT-pdf2txt.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E6%95%88%E7%8E%87/PDF%20%E8%BD%AC%20TXT-pdf2txt/PDF%20%E8%BD%AC%20TXT-pdf2txt.zip"
+    },
+    {
+      "id": "pomodoro",
+      "kind": "single",
+      "name": "番茄钟",
+      "group": "时间管理",
+      "category": "效率",
+      "toolIds": [
+        "pomodoro"
+      ],
+      "toolCount": 1,
+      "bytes": 9023,
+      "sha256": "49c3a4b5788d7879f6cef0e1fb048dc274797a0fd59466c574aecb07288d83c4",
+      "relativePath": "效率/番茄钟-pomodoro/番茄钟-pomodoro.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E6%95%88%E7%8E%87/%E7%95%AA%E8%8C%84%E9%92%9F-pomodoro/%E7%95%AA%E8%8C%84%E9%92%9F-pomodoro.zip"
+    },
+    {
+      "id": "eartest",
+      "kind": "single",
+      "name": "耳龄测试",
+      "group": "录音声学",
+      "category": "媒体",
+      "toolIds": [
+        "eartest"
+      ],
+      "toolCount": 1,
+      "bytes": 8138,
+      "sha256": "d23a4519b6d38eb6410738932b13d55305c3c7b139adb218addb7b7e643a0d83",
+      "relativePath": "媒体/耳龄测试-eartest/耳龄测试-eartest.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%AA%92%E4%BD%93/%E8%80%B3%E9%BE%84%E6%B5%8B%E8%AF%95-eartest/%E8%80%B3%E9%BE%84%E6%B5%8B%E8%AF%95-eartest.zip"
+    },
+    {
+      "id": "audiolab",
+      "kind": "single",
+      "name": "音频实验室",
+      "group": "录音声学",
+      "category": "媒体",
+      "toolIds": [
+        "audiolab"
+      ],
+      "toolCount": 1,
+      "bytes": 17961,
+      "sha256": "1e5765e3b2518442ef0175d0e527159b32a2fc07dd1474640272e02565725f5b",
+      "relativePath": "媒体/音频实验室-audiolab/音频实验室-audiolab.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%AA%92%E4%BD%93/%E9%9F%B3%E9%A2%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-audiolab/%E9%9F%B3%E9%A2%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-audiolab.zip"
+    },
+    {
+      "id": "instrument_box",
+      "kind": "single",
+      "name": "乐器盒",
+      "group": "音乐声音",
+      "category": "媒体",
+      "toolIds": [
+        "instrument_box"
+      ],
+      "toolCount": 1,
+      "bytes": 84033,
+      "sha256": "1cb4acadbb996f11b67e194c1059805ff02fe6da76226247873206d5325fefb1",
+      "relativePath": "媒体/乐器盒-instrument_box/乐器盒-instrument_box.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%AA%92%E4%BD%93/%E4%B9%90%E5%99%A8%E7%9B%92-instrument_box/%E4%B9%90%E5%99%A8%E7%9B%92-instrument_box.zip"
+    },
+    {
+      "id": "score_player",
+      "kind": "single",
+      "name": "乐谱播放",
+      "group": "音乐声音",
+      "category": "媒体",
+      "toolIds": [
+        "score_player"
+      ],
+      "toolCount": 1,
+      "bytes": 56089,
+      "sha256": "2dd889073a194966ec825498d1bbc1ad79c68184c78b42042e451252b6001f85",
+      "relativePath": "媒体/乐谱播放-score_player/乐谱播放-score_player.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%AA%92%E4%BD%93/%E4%B9%90%E8%B0%B1%E6%92%AD%E6%94%BE-score_player/%E4%B9%90%E8%B0%B1%E6%92%AD%E6%94%BE-score_player.zip"
+    },
+    {
+      "id": "whitenoise",
+      "kind": "single",
+      "name": "白噪音",
+      "group": "音乐声音",
+      "category": "媒体",
+      "toolIds": [
+        "whitenoise"
+      ],
+      "toolCount": 1,
+      "bytes": 12824,
+      "sha256": "ec619350d017dd113d1d4adeb0841d38ef2128a4fb26fe1e28b02bccd873390a",
+      "relativePath": "媒体/白噪音-whitenoise/白噪音-whitenoise.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%AA%92%E4%BD%93/%E7%99%BD%E5%99%AA%E9%9F%B3-whitenoise/%E7%99%BD%E5%99%AA%E9%9F%B3-whitenoise.zip"
+    },
+    {
+      "id": "metronome",
+      "kind": "single",
+      "name": "节拍器",
+      "group": "音乐声音",
+      "category": "媒体",
+      "toolIds": [
+        "metronome"
+      ],
+      "toolCount": 1,
+      "bytes": 8453,
+      "sha256": "15cadbc27609ffe43754f1f4b5846175e208555e2e8988523b3dc1d4b115cdc0",
+      "relativePath": "媒体/节拍器-metronome/节拍器-metronome.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%AA%92%E4%BD%93/%E8%8A%82%E6%8B%8D%E5%99%A8-metronome/%E8%8A%82%E6%8B%8D%E5%99%A8-metronome.zip"
+    },
+    {
+      "id": "super_band",
+      "kind": "single",
+      "name": "超级乐器",
+      "group": "音乐声音",
+      "category": "媒体",
+      "toolIds": [
+        "super_band"
+      ],
+      "toolCount": 1,
+      "bytes": 44627,
+      "sha256": "cc94a42ee9c7f3f91c291ea86fb9783b9bd2ad2b1bc1fd0f9815432a76beaf9b",
+      "relativePath": "媒体/超级乐器-super_band/超级乐器-super_band.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%AA%92%E4%BD%93/%E8%B6%85%E7%BA%A7%E4%B9%90%E5%99%A8-super_band/%E8%B6%85%E7%BA%A7%E4%B9%90%E5%99%A8-super_band.zip"
+    },
+    {
+      "id": "piano",
+      "kind": "single",
+      "name": "随身钢琴",
+      "group": "音乐声音",
+      "category": "媒体",
+      "toolIds": [
+        "piano"
+      ],
+      "toolCount": 1,
+      "bytes": 41461,
+      "sha256": "d1a7092e93bc45172fb04b2256794281abd6c3098e6a121ac62393c2e619e9a2",
+      "relativePath": "媒体/随身钢琴-piano/随身钢琴-piano.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%AA%92%E4%BD%93/%E9%9A%8F%E8%BA%AB%E9%92%A2%E7%90%B4-piano/%E9%9A%8F%E8%BA%AB%E9%92%A2%E7%90%B4-piano.zip"
+    },
+    {
+      "id": "weight",
+      "kind": "single",
+      "name": "体重记录",
+      "group": "健康记录",
+      "category": "生活",
+      "toolIds": [
+        "weight"
+      ],
+      "toolCount": 1,
+      "bytes": 12422,
+      "sha256": "a0490055084cf0c375f434a80eed7ba5e2ff260dbf328ee5acffd4085dc11a11",
+      "relativePath": "生活/体重记录-weight/体重记录-weight.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E4%BD%93%E9%87%8D%E8%AE%B0%E5%BD%95-weight/%E4%BD%93%E9%87%8D%E8%AE%B0%E5%BD%95-weight.zip"
+    },
+    {
+      "id": "water",
+      "kind": "single",
+      "name": "喝水记录",
+      "group": "健康记录",
+      "category": "生活",
+      "toolIds": [
+        "water"
+      ],
+      "toolCount": 1,
+      "bytes": 12171,
+      "sha256": "b40d38de01109507312415d7d647d662bf9369a8951504fa35b64ac1d5f51bd0",
+      "relativePath": "生活/喝水记录-water/喝水记录-water.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E5%96%9D%E6%B0%B4%E8%AE%B0%E5%BD%95-water/%E5%96%9D%E6%B0%B4%E8%AE%B0%E5%BD%95-water.zip"
+    },
+    {
+      "id": "sleepcalc",
+      "kind": "single",
+      "name": "睡眠周期",
+      "group": "健康记录",
+      "category": "生活",
+      "toolIds": [
+        "sleepcalc"
+      ],
+      "toolCount": 1,
+      "bytes": 8333,
+      "sha256": "55baf44a46f7bf3a39499fbbc0c184b1e47ccb20ab9d52b67b34e38aa52551c9",
+      "relativePath": "生活/睡眠周期-sleepcalc/睡眠周期-sleepcalc.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E7%9D%A1%E7%9C%A0%E5%91%A8%E6%9C%9F-sleepcalc/%E7%9D%A1%E7%9C%A0%E5%91%A8%E6%9C%9F-sleepcalc.zip"
+    },
+    {
+      "id": "worldclock",
+      "kind": "single",
+      "name": "世界时钟",
+      "group": "日期提醒",
+      "category": "生活",
+      "toolIds": [
+        "worldclock"
+      ],
+      "toolCount": 1,
+      "bytes": 15069,
+      "sha256": "4d895fb99ac6ee5765343ed16cda640279f189b093a531d9c896cb25ff590ff2",
+      "relativePath": "生活/世界时钟-worldclock/世界时钟-worldclock.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E4%B8%96%E7%95%8C%E6%97%B6%E9%92%9F-worldclock/%E4%B8%96%E7%95%8C%E6%97%B6%E9%92%9F-worldclock.zip"
+    },
+    {
+      "id": "days",
+      "kind": "single",
+      "name": "倒数日",
+      "group": "日期提醒",
+      "category": "生活",
+      "toolIds": [
+        "days"
+      ],
+      "toolCount": 1,
+      "bytes": 17195,
+      "sha256": "aa08c58168ccf9e175d3ff5643cc6f1abae994089e5d3dcc59cf2848aaedeb30",
+      "relativePath": "生活/倒数日-days/倒数日-days.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E5%80%92%E6%95%B0%E6%97%A5-days/%E5%80%92%E6%95%B0%E6%97%A5-days.zip"
+    },
+    {
+      "id": "screentest",
+      "kind": "single",
+      "name": "屏幕检测",
+      "group": "硬件传感",
+      "category": "生活",
+      "toolIds": [
+        "screentest"
+      ],
+      "toolCount": 1,
+      "bytes": 9268,
+      "sha256": "308d120cd545557d2e315f43f9e88d4d144fb069de9bf439304dd905cf0179f9",
+      "relativePath": "生活/屏幕检测-screentest/屏幕检测-screentest.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E5%B1%8F%E5%B9%95%E6%A3%80%E6%B5%8B-screentest/%E5%B1%8F%E5%B9%95%E6%A3%80%E6%B5%8B-screentest.zip"
+    },
+    {
+      "id": "screenlight",
+      "kind": "single",
+      "name": "柔光补光灯",
+      "group": "硬件传感",
+      "category": "生活",
+      "toolIds": [
+        "screenlight"
+      ],
+      "toolCount": 1,
+      "bytes": 6620,
+      "sha256": "55e0a429fcf8eaa4a06e62bbd378e647ed1ad5728ef2c9ebdd51a97fb0e796c9",
+      "relativePath": "生活/柔光补光灯-screenlight/柔光补光灯-screenlight.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E6%9F%94%E5%85%89%E8%A1%A5%E5%85%89%E7%81%AF-screenlight/%E6%9F%94%E5%85%89%E8%A1%A5%E5%85%89%E7%81%AF-screenlight.zip"
+    },
+    {
+      "id": "relatives",
+      "kind": "single",
+      "name": "亲戚称呼",
+      "group": "记账参考",
+      "category": "生活",
+      "toolIds": [
+        "relatives"
+      ],
+      "toolCount": 1,
+      "bytes": 14432,
+      "sha256": "973d3e56c0fd9f8544db740dc9e5a66cd7019bd46ad03deebe531da135f3f6ba",
+      "relativePath": "生活/亲戚称呼-relatives/亲戚称呼-relatives.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E4%BA%B2%E6%88%9A%E7%A7%B0%E5%91%BC-relatives/%E4%BA%B2%E6%88%9A%E7%A7%B0%E5%91%BC-relatives.zip"
+    },
+    {
+      "id": "sizechart",
+      "kind": "single",
+      "name": "尺码对照",
+      "group": "记账参考",
+      "category": "生活",
+      "toolIds": [
+        "sizechart"
+      ],
+      "toolCount": 1,
+      "bytes": 5559,
+      "sha256": "826db76af629a1dfe0aa87ce92e25a08f5e742201eada6f1012082bcd669e467",
+      "relativePath": "生活/尺码对照-sizechart/尺码对照-sizechart.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E5%B0%BA%E7%A0%81%E5%AF%B9%E7%85%A7-sizechart/%E5%B0%BA%E7%A0%81%E5%AF%B9%E7%85%A7-sizechart.zip"
+    },
+    {
+      "id": "ledger",
+      "kind": "single",
+      "name": "记账本",
+      "group": "记账参考",
+      "category": "生活",
+      "toolIds": [
+        "ledger"
+      ],
+      "toolCount": 1,
+      "bytes": 11276,
+      "sha256": "9738b54f354a064a2b44ccbab95eb3e4be3aaa06f7d613497f73942c667cc8c1",
+      "relativePath": "生活/记账本-ledger/记账本-ledger.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E8%B4%A6%E6%9C%AC-ledger/%E8%AE%B0%E8%B4%A6%E6%9C%AC-ledger.zip"
+    },
+    {
+      "id": "passbook",
+      "kind": "single",
+      "name": "密码本",
+      "group": "证件密码",
+      "category": "生活",
+      "toolIds": [
+        "passbook"
+      ],
+      "toolCount": 1,
+      "bytes": 40486,
+      "sha256": "042b334efebcc102f3e6a4c95fe1b300af22917d0d07a4b78075b93e039de8a0",
+      "relativePath": "生活/密码本-passbook/密码本-passbook.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E5%AF%86%E7%A0%81%E6%9C%AC-passbook/%E5%AF%86%E7%A0%81%E6%9C%AC-passbook.zip"
+    },
+    {
+      "id": "idcard",
+      "kind": "single",
+      "name": "身份证解析",
+      "group": "证件密码",
+      "category": "生活",
+      "toolIds": [
+        "idcard"
+      ],
+      "toolCount": 1,
+      "bytes": 34018,
+      "sha256": "b5f8cdffdc3669009c4a218c36948faf10d88385eb2629ce3c93d78f8fd7fd3a",
+      "relativePath": "生活/身份证解析-idcard/身份证解析-idcard.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%A7%A3%E6%9E%90-idcard/%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%A7%A3%E6%9E%90-idcard.zip"
+    },
+    {
+      "id": "bankbin",
+      "kind": "single",
+      "name": "银行卡BIN",
+      "group": "证件密码",
+      "category": "生活",
+      "toolIds": [
+        "bankbin"
+      ],
+      "toolCount": 1,
+      "bytes": 8336,
+      "sha256": "b83b08eac6133ea851a92e628a6081293010e397511f6de9ab5e2a1649eba781",
+      "relativePath": "生活/银行卡BIN-bankbin/银行卡BIN-bankbin.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E9%93%B6%E8%A1%8C%E5%8D%A1BIN-bankbin/%E9%93%B6%E8%A1%8C%E5%8D%A1BIN-bankbin.zip"
+    },
+    {
+      "id": "fuelcalc",
+      "kind": "single",
+      "name": "油耗计算",
+      "group": "车辆出行",
+      "category": "生活",
+      "toolIds": [
+        "fuelcalc"
+      ],
+      "toolCount": 1,
+      "bytes": 10179,
+      "sha256": "932dcea5dec5feb7161e02b77d65d685bbb660396ef5baf489e47b515f65dc0d",
+      "relativePath": "生活/油耗计算-fuelcalc/油耗计算-fuelcalc.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E6%B2%B9%E8%80%97%E8%AE%A1%E7%AE%97-fuelcalc/%E6%B2%B9%E8%80%97%E8%AE%A1%E7%AE%97-fuelcalc.zip"
+    },
+    {
+      "id": "carplate",
+      "kind": "single",
+      "name": "车牌归属地",
+      "group": "车辆出行",
+      "category": "生活",
+      "toolIds": [
+        "carplate"
+      ],
+      "toolCount": 1,
+      "bytes": 9262,
+      "sha256": "dca157d6370cd537178a7ef607632d4e0ab6fbeac130c98e1114affdc082594a",
+      "relativePath": "生活/车牌归属地-carplate/车牌归属地-carplate.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E7%94%9F%E6%B4%BB/%E8%BD%A6%E7%89%8C%E5%BD%92%E5%B1%9E%E5%9C%B0-carplate/%E8%BD%A6%E7%89%8C%E5%BD%92%E5%B1%9E%E5%9C%B0-carplate.zip"
+    },
+    {
+      "id": "reaction",
+      "kind": "single",
+      "name": "反应力测试",
+      "group": "手速反应",
+      "category": "娱乐",
+      "toolIds": [
+        "reaction"
+      ],
+      "toolCount": 1,
+      "bytes": 6772,
+      "sha256": "2a534b6812e8eb8b5f4fb4bbbf9171ab709f0b9245aa927d3fab1c604d1b2603",
+      "relativePath": "娱乐/反应力测试-reaction/反应力测试-reaction.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E5%8F%8D%E5%BA%94%E5%8A%9B%E6%B5%8B%E8%AF%95-reaction/%E5%8F%8D%E5%BA%94%E5%8A%9B%E6%B5%8B%E8%AF%95-reaction.zip"
+    },
+    {
+      "id": "cps",
+      "kind": "single",
+      "name": "手速测试",
+      "group": "手速反应",
+      "category": "娱乐",
+      "toolIds": [
+        "cps"
+      ],
+      "toolCount": 1,
+      "bytes": 8205,
+      "sha256": "ded1daa4219089ab2aa1aa73ea56e64bd2e3116399d7245ac9d6aed45bd69a82",
+      "relativePath": "娱乐/手速测试-cps/手速测试-cps.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E6%89%8B%E9%80%9F%E6%B5%8B%E8%AF%95-cps/%E6%89%8B%E9%80%9F%E6%B5%8B%E8%AF%95-cps.zip"
+    },
+    {
+      "id": "tierlist",
+      "kind": "single",
+      "name": "从夯到拉",
+      "group": "整活决策",
+      "category": "娱乐",
+      "toolIds": [
+        "tierlist"
+      ],
+      "toolCount": 1,
+      "bytes": 17302,
+      "sha256": "3cda5f60d24061bcab6e52f222b720081a53fcd10c71e4d2bfe097a1517088cb",
+      "relativePath": "娱乐/从夯到拉-tierlist/从夯到拉-tierlist.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89-tierlist/%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89-tierlist.zip"
+    },
+    {
+      "id": "woodenfish",
+      "kind": "single",
+      "name": "电子木鱼",
+      "group": "整活决策",
+      "category": "娱乐",
+      "toolIds": [
+        "woodenfish"
+      ],
+      "toolCount": 1,
+      "bytes": 7037,
+      "sha256": "21d2ae09f13d1e2d800535480ea672af4a729e873ad43f8d072357f175528910",
+      "relativePath": "娱乐/电子木鱼-woodenfish/电子木鱼-woodenfish.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E7%94%B5%E5%AD%90%E6%9C%A8%E9%B1%BC-woodenfish/%E7%94%B5%E5%AD%90%E6%9C%A8%E9%B1%BC-woodenfish.zip"
+    },
+    {
+      "id": "g2048",
+      "kind": "single",
+      "name": "2048",
+      "group": "益智游戏",
+      "category": "娱乐",
+      "toolIds": [
+        "g2048"
+      ],
+      "toolCount": 1,
+      "bytes": 10167,
+      "sha256": "2eca905942bafe4ff9218c1dbe4fe79fac253f98e377d41265141f0fc282d07f",
+      "relativePath": "娱乐/2048-g2048/2048-g2048.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/2048-g2048/2048-g2048.zip"
+    },
+    {
+      "id": "g24",
+      "kind": "single",
+      "name": "24 点",
+      "group": "益智游戏",
+      "category": "娱乐",
+      "toolIds": [
+        "g24"
+      ],
+      "toolCount": 1,
+      "bytes": 9555,
+      "sha256": "da8daad1082588fa26a276ca94f621b6335c64bf3a5389865e7185979df8c50b",
+      "relativePath": "娱乐/24 点-g24/24 点-g24.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/24%20%E7%82%B9-g24/24%20%E7%82%B9-g24.zip"
+    },
+    {
+      "id": "gomoku",
+      "kind": "single",
+      "name": "五子棋",
+      "group": "益智游戏",
+      "category": "娱乐",
+      "toolIds": [
+        "gomoku"
+      ],
+      "toolCount": 1,
+      "bytes": 11991,
+      "sha256": "9d77d3d2dfef3d0e9ee6e706c49db8506aae41f3805d08daeba24917adf6598c",
+      "relativePath": "娱乐/五子棋-gomoku/五子棋-gomoku.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E4%BA%94%E5%AD%90%E6%A3%8B-gomoku/%E4%BA%94%E5%AD%90%E6%A3%8B-gomoku.zip"
+    },
+    {
+      "id": "mines",
+      "kind": "single",
+      "name": "扫雷",
+      "group": "益智游戏",
+      "category": "娱乐",
+      "toolIds": [
+        "mines"
+      ],
+      "toolCount": 1,
+      "bytes": 12987,
+      "sha256": "92ba8d5c6a6c6c951d92061371e43dbe01d6c15256dba9dc40e64afcd85e5471",
+      "relativePath": "娱乐/扫雷-mines/扫雷-mines.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E6%89%AB%E9%9B%B7-mines/%E6%89%AB%E9%9B%B7-mines.zip"
+    },
+    {
+      "id": "fifteen",
+      "kind": "single",
+      "name": "数字华容道",
+      "group": "益智游戏",
+      "category": "娱乐",
+      "toolIds": [
+        "fifteen"
+      ],
+      "toolCount": 1,
+      "bytes": 9275,
+      "sha256": "d507e14fe6eb9bbb88e02b98141409a79b48c9633c550f5632a677ffa4973577",
+      "relativePath": "娱乐/数字华容道-fifteen/数字华容道-fifteen.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E6%95%B0%E5%AD%97%E5%8D%8E%E5%AE%B9%E9%81%93-fifteen/%E6%95%B0%E5%AD%97%E5%8D%8E%E5%AE%B9%E9%81%93-fifteen.zip"
+    },
+    {
+      "id": "sudoku",
+      "kind": "single",
+      "name": "数独",
+      "group": "益智游戏",
+      "category": "娱乐",
+      "toolIds": [
+        "sudoku"
+      ],
+      "toolCount": 1,
+      "bytes": 12930,
+      "sha256": "952157443763d3c52e2c42880b9bec98a6b3086dc7f9997e30dcb549d1b5d37f",
+      "relativePath": "娱乐/数独-sudoku/数独-sudoku.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E6%95%B0%E7%8B%AC-sudoku/%E6%95%B0%E7%8B%AC-sudoku.zip"
+    },
+    {
+      "id": "wordle",
+      "kind": "single",
+      "name": "猜单词",
+      "group": "益智游戏",
+      "category": "娱乐",
+      "toolIds": [
+        "wordle"
+      ],
+      "toolCount": 1,
+      "bytes": 13031,
+      "sha256": "e3183dd2f89a759df7d81e524ff40363c13fff952da4d10a5ece85251f583492",
+      "relativePath": "娱乐/猜单词-wordle/猜单词-wordle.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E7%8C%9C%E5%8D%95%E8%AF%8D-wordle/%E7%8C%9C%E5%8D%95%E8%AF%8D-wordle.zip"
+    },
+    {
+      "id": "riddles",
+      "kind": "single",
+      "name": "谜语大全",
+      "group": "益智游戏",
+      "category": "娱乐",
+      "toolIds": [
+        "riddles"
+      ],
+      "toolCount": 1,
+      "bytes": 12728,
+      "sha256": "46dee853375ed1c899e4a010e063b164a32f8288271cc6694d07406295a1ff89",
+      "relativePath": "娱乐/谜语大全-riddles/谜语大全-riddles.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E8%B0%9C%E8%AF%AD%E5%A4%A7%E5%85%A8-riddles/%E8%B0%9C%E8%AF%AD%E5%A4%A7%E5%85%A8-riddles.zip"
+    },
+    {
+      "id": "snake",
+      "kind": "single",
+      "name": "贪吃蛇",
+      "group": "益智游戏",
+      "category": "娱乐",
+      "toolIds": [
+        "snake"
+      ],
+      "toolCount": 1,
+      "bytes": 10304,
+      "sha256": "97c18cba1f36fdd34e3178f5b3918b50ed471e340376a720f63d040d8f37a036",
+      "relativePath": "娱乐/贪吃蛇-snake/贪吃蛇-snake.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E8%B4%AA%E5%90%83%E8%9B%87-snake/%E8%B4%AA%E5%90%83%E8%9B%87-snake.zip"
+    },
+    {
+      "id": "memory",
+      "kind": "single",
+      "name": "数字记忆",
+      "group": "记忆专注",
+      "category": "娱乐",
+      "toolIds": [
+        "memory"
+      ],
+      "toolCount": 1,
+      "bytes": 7467,
+      "sha256": "eecf94b5778a73dc942ed32915360f65810feaf5a8adeda7e25feba6b4c2b343",
+      "relativePath": "娱乐/数字记忆-memory/数字记忆-memory.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E6%95%B0%E5%AD%97%E8%AE%B0%E5%BF%86-memory/%E6%95%B0%E5%AD%97%E8%AE%B0%E5%BF%86-memory.zip"
+    },
+    {
+      "id": "schulte",
+      "kind": "single",
+      "name": "舒尔特方格",
+      "group": "记忆专注",
+      "category": "娱乐",
+      "toolIds": [
+        "schulte"
+      ],
+      "toolCount": 1,
+      "bytes": 11086,
+      "sha256": "6b4cb5f66e7804db6d352dd7d6df9b1ad46c6e7ba541540279445182d66c733b",
+      "relativePath": "娱乐/舒尔特方格-schulte/舒尔特方格-schulte.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E8%88%92%E5%B0%94%E7%89%B9%E6%96%B9%E6%A0%BC-schulte/%E8%88%92%E5%B0%94%E7%89%B9%E6%96%B9%E6%A0%BC-schulte.zip"
+    },
+    {
+      "id": "simon",
+      "kind": "single",
+      "name": "记忆彩灯",
+      "group": "记忆专注",
+      "category": "娱乐",
+      "toolIds": [
+        "simon"
+      ],
+      "toolCount": 1,
+      "bytes": 7058,
+      "sha256": "e16c77818cb0d5f427b4113eb8f9e0c776507955af88ac7d1277a3e1204e164d",
+      "relativePath": "娱乐/记忆彩灯-simon/记忆彩灯-simon.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E8%AE%B0%E5%BF%86%E5%BD%A9%E7%81%AF-simon/%E8%AE%B0%E5%BF%86%E5%BD%A9%E7%81%AF-simon.zip"
+    },
+    {
+      "id": "sign",
+      "kind": "single",
+      "name": "每日一签",
+      "group": "骰子抽签",
+      "category": "娱乐",
+      "toolIds": [
+        "sign"
+      ],
+      "toolCount": 1,
+      "bytes": 37437,
+      "sha256": "2afa9bef158363003d360d6154ea6fcafe58afc6e8b5d4d843bb29ba6542819d",
+      "relativePath": "娱乐/每日一签-sign/每日一签-sign.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E6%AF%8F%E6%97%A5%E4%B8%80%E7%AD%BE-sign/%E6%AF%8F%E6%97%A5%E4%B8%80%E7%AD%BE-sign.zip"
+    },
+    {
+      "id": "answers",
+      "kind": "single",
+      "name": "答案之书",
+      "group": "骰子抽签",
+      "category": "娱乐",
+      "toolIds": [
+        "answers"
+      ],
+      "toolCount": 1,
+      "bytes": 6165,
+      "sha256": "ae1c5efe7670dbb7644441505695be6e78bfb41fb35ffb120248ca7e79b17c4b",
+      "relativePath": "娱乐/答案之书-answers/答案之书-answers.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6-answers/%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6-answers.zip"
+    },
+    {
+      "id": "dice",
+      "kind": "single",
+      "name": "跑团骰子",
+      "group": "骰子抽签",
+      "category": "娱乐",
+      "toolIds": [
+        "dice"
+      ],
+      "toolCount": 1,
+      "bytes": 14833,
+      "sha256": "a70dce9fb74acd7c8485fdd03e15f54b909cf3f3187d6e029e1a8869a64c60bc",
+      "relativePath": "娱乐/跑团骰子-dice/跑团骰子-dice.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%A8%B1%E4%B9%90/%E8%B7%91%E5%9B%A2%E9%AA%B0%E5%AD%90-dice/%E8%B7%91%E5%9B%A2%E9%AA%B0%E5%AD%90-dice.zip"
+    },
+    {
+      "id": "coursetable",
+      "kind": "single",
+      "name": "课程表",
+      "group": "校园课程",
+      "category": "学习",
+      "toolIds": [
+        "coursetable"
+      ],
+      "toolCount": 1,
+      "bytes": 13153,
+      "sha256": "e8173ceb239a8c9baad19bfbc2c68c6807a2c41f3ba9ce005731e2ce4e0eda2b",
+      "relativePath": "学习/课程表-coursetable/课程表-coursetable.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%AD%A6%E4%B9%A0/%E8%AF%BE%E7%A8%8B%E8%A1%A8-coursetable/%E8%AF%BE%E7%A8%8B%E8%A1%A8-coursetable.zip"
+    },
+    {
+      "id": "elements",
+      "kind": "single",
+      "name": "元素周期表",
+      "group": "理科速查",
+      "category": "学习",
+      "toolIds": [
+        "elements"
+      ],
+      "toolCount": 1,
+      "bytes": 13901,
+      "sha256": "489e8c40579f5f9886f7e20a937369ce4fca62b8530b949b2cd8c595a7bda6c2",
+      "relativePath": "学习/元素周期表-elements/元素周期表-elements.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%AD%A6%E4%B9%A0/%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8-elements/%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8-elements.zip"
+    },
+    {
+      "id": "typing",
+      "kind": "single",
+      "name": "打字测速",
+      "group": "语言输入",
+      "category": "学习",
+      "toolIds": [
+        "typing"
+      ],
+      "toolCount": 1,
+      "bytes": 15616,
+      "sha256": "30c7cd68e78adcea2ee49daea1b945efbd61d013e9e05cf70aef437af0a645a0",
+      "relativePath": "学习/打字测速-typing/打字测速-typing.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%AD%A6%E4%B9%A0/%E6%89%93%E5%AD%97%E6%B5%8B%E9%80%9F-typing/%E6%89%93%E5%AD%97%E6%B5%8B%E9%80%9F-typing.zip"
+    },
+    {
+      "id": "dailyeng",
+      "kind": "single",
+      "name": "每日英语",
+      "group": "语言输入",
+      "category": "学习",
+      "toolIds": [
+        "dailyeng"
+      ],
+      "toolCount": 1,
+      "bytes": 33758,
+      "sha256": "d8b2f474a2b9a5dd60156ede05e52cb514ab006b3828d5d8f9f37d9068531fc4",
+      "relativePath": "学习/每日英语-dailyeng/每日英语-dailyeng.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E5%AD%A6%E4%B9%A0/%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD-dailyeng/%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD-dailyeng.zip"
+    },
+    {
+      "id": "hitokoto",
+      "kind": "single",
+      "name": "一言",
+      "group": "公开数据",
+      "category": "联网",
+      "toolIds": [
+        "hitokoto"
+      ],
+      "toolCount": 1,
+      "bytes": 10376,
+      "sha256": "8ccb7d2d8a2fca0e3e1b7ca4f443d08da2f08d2ac900c3cd3f289f0ed3004efc",
+      "relativePath": "联网/一言-hitokoto/一言-hitokoto.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E8%81%94%E7%BD%91/%E4%B8%80%E8%A8%80-hitokoto/%E4%B8%80%E8%A8%80-hitokoto.zip"
+    },
+    {
+      "id": "speedtest",
+      "kind": "single",
+      "name": "网速测试",
+      "group": "网络工具",
+      "category": "联网",
+      "toolIds": [
+        "speedtest"
+      ],
+      "toolCount": 1,
+      "bytes": 11966,
+      "sha256": "7685dbdfabd4fdcbe8b7b78c45b1c339d5ffe72d954157cc089f40d7acea5aec",
+      "relativePath": "联网/网速测试-speedtest/网速测试-speedtest.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E8%81%94%E7%BD%91/%E7%BD%91%E9%80%9F%E6%B5%8B%E8%AF%95-speedtest/%E7%BD%91%E9%80%9F%E6%B5%8B%E8%AF%95-speedtest.zip"
+    },
+    {
+      "id": "downloader",
+      "kind": "single",
+      "name": "下载器",
+      "group": "网络文件",
+      "category": "联网",
+      "toolIds": [
+        "downloader"
+      ],
+      "toolCount": 1,
+      "bytes": 8133,
+      "sha256": "1148e95606592715f548c096d5b94f32dda8a81972577d6c369048d1c58a4c08",
+      "relativePath": "联网/下载器-downloader/下载器-downloader.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E8%81%94%E7%BD%91/%E4%B8%8B%E8%BD%BD%E5%99%A8-downloader/%E4%B8%8B%E8%BD%BD%E5%99%A8-downloader.zip"
+    },
+    {
+      "id": "exchrate",
+      "kind": "single",
+      "name": "汇率换算",
+      "group": "行情财经",
+      "category": "联网",
+      "toolIds": [
+        "exchrate"
+      ],
+      "toolCount": 1,
+      "bytes": 8336,
+      "sha256": "294e18e2e4c225153d40b3769c4c4c8fdd2832553f785a65bd0ba00d3cd98b71",
+      "relativePath": "联网/汇率换算-exchrate/汇率换算-exchrate.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/%E8%81%94%E7%BD%91/%E6%B1%87%E7%8E%87%E6%8D%A2%E7%AE%97-exchrate/%E6%B1%87%E7%8E%87%E6%8D%A2%E7%AE%97-exchrate.zip"
+    },
+    {
+      "id": "all:all",
+      "kind": "all",
+      "name": "官方可扩展工具全集",
+      "group": "",
+      "category": "",
+      "toolIds": [
+        "aasplit",
+        "answers",
+        "apk1",
+        "audiolab",
+        "bankbin",
+        "barcode",
+        "carplate",
+        "chinesecolors",
+        "coursetable",
+        "cps",
+        "dailyeng",
+        "days",
+        "dialogueboard",
+        "dice",
+        "downloader",
+        "drawpad",
+        "eartest",
+        "eleccalc",
+        "elements",
+        "exchrate",
+        "fifteen",
+        "filedesk",
+        "filemanager",
+        "filemanifest",
+        "fuelcalc",
+        "g2048",
+        "g24",
+        "gomoku",
+        "health",
+        "hitokoto",
+        "idcard",
+        "instrument_box",
+        "ioscalc",
+        "ledger",
+        "manifestdiff",
+        "mdnote",
+        "memory",
+        "metronome",
+        "mindmap",
+        "mines",
+        "mortgage",
+        "palettegen",
+        "passbook",
+        "pdf2txt",
+        "piano",
+        "pixelart",
+        "pomodoro",
+        "reaction",
+        "relatives",
+        "riddles",
+        "schulte",
+        "score_player",
+        "screenlight",
+        "screentest",
+        "sign",
+        "simon",
+        "sizechart",
+        "sleepcalc",
+        "snake",
+        "speedtest",
+        "sudoku",
+        "super_band",
+        "taxcalc",
+        "tdee",
+        "text2img",
+        "tierlist",
+        "typing",
+        "unicode",
+        "wallpaper",
+        "water",
+        "watermark",
+        "webapk",
+        "weight",
+        "whitenoise",
+        "woodenfish",
+        "wordle",
+        "worldclock"
+      ],
+      "toolCount": 77,
+      "bytes": 1138387,
+      "sha256": "925ef347e917dadb3ed75e3cbe874b7c0114607f9ad9ac7ffe572aef79a7fcb2",
+      "relativePath": "bundles/all/jinhe-tools-all.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/all/jinhe-tools-all.zip"
+    },
+    {
+      "id": "group:group-bd69b3a41b11",
+      "kind": "group",
+      "name": "健康计算族工具包",
+      "group": "健康计算",
+      "category": "",
+      "toolIds": [
+        "health",
+        "tdee"
+      ],
+      "toolCount": 2,
+      "bytes": 20750,
+      "sha256": "bbb1a7ca5e91433470b27f2bf3dddc280b253fdd3275aac4871ddf7612feed60",
+      "relativePath": "bundles/groups/group-bd69b3a41b11/jinhe-tools-group-bd69b3a41b11.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-bd69b3a41b11/jinhe-tools-group-bd69b3a41b11.zip"
+    },
+    {
+      "id": "group:group-bd197c9a6cb5",
+      "kind": "group",
+      "name": "健康记录族工具包",
+      "group": "健康记录",
+      "category": "",
+      "toolIds": [
+        "sleepcalc",
+        "water",
+        "weight"
+      ],
+      "toolCount": 3,
+      "bytes": 33341,
+      "sha256": "981fd2ff9f69ae7a162e09d6335e7b5624e352f4718cfc213e8bc8b73998648a",
+      "relativePath": "bundles/groups/group-bd197c9a6cb5/jinhe-tools-group-bd197c9a6cb5.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-bd197c9a6cb5/jinhe-tools-group-bd197c9a6cb5.zip"
+    },
+    {
+      "id": "group:group-54368dd38e57",
+      "kind": "group",
+      "name": "公开数据族工具包",
+      "group": "公开数据",
+      "category": "",
+      "toolIds": [
+        "hitokoto"
+      ],
+      "toolCount": 1,
+      "bytes": 10725,
+      "sha256": "2e23a2b238725cbad6c4f1bb0a726d686d996e1bd7a31d4645f40705c6bc2457",
+      "relativePath": "bundles/groups/group-54368dd38e57/jinhe-tools-group-54368dd38e57.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-54368dd38e57/jinhe-tools-group-54368dd38e57.zip"
+    },
+    {
+      "id": "group:group-9bdbd23bf420",
+      "kind": "group",
+      "name": "图文创作族工具包",
+      "group": "图文创作",
+      "category": "",
+      "toolIds": [
+        "dialogueboard",
+        "drawpad",
+        "pixelart",
+        "text2img",
+        "watermark"
+      ],
+      "toolCount": 5,
+      "bytes": 60266,
+      "sha256": "ded4fdf7b79f7f46c4317c5d6940e2bb3fcdb697d34d3ad5f84409008a1a52a8",
+      "relativePath": "bundles/groups/group-9bdbd23bf420/jinhe-tools-group-9bdbd23bf420.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-9bdbd23bf420/jinhe-tools-group-9bdbd23bf420.zip"
+    },
+    {
+      "id": "group:group-c62a58459251",
+      "kind": "group",
+      "name": "图片生成族工具包",
+      "group": "图片生成",
+      "category": "",
+      "toolIds": [
+        "barcode",
+        "wallpaper"
+      ],
+      "toolCount": 2,
+      "bytes": 26826,
+      "sha256": "49b362960679a29b14ee03b07b10f14febe4a8d7236403174bd6b00a772f365a",
+      "relativePath": "bundles/groups/group-c62a58459251/jinhe-tools-group-c62a58459251.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-c62a58459251/jinhe-tools-group-c62a58459251.zip"
+    },
+    {
+      "id": "group:group-a46c766b092a",
+      "kind": "group",
+      "name": "安装传输族工具包",
+      "group": "安装传输",
+      "category": "",
+      "toolIds": [
+        "apk1",
+        "webapk"
+      ],
+      "toolCount": 2,
+      "bytes": 12994,
+      "sha256": "e4f79768f26f9aaae69930f598a3e5bd252e93faeade5404a93c170218489d59",
+      "relativePath": "bundles/groups/group-a46c766b092a/jinhe-tools-group-a46c766b092a.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-a46c766b092a/jinhe-tools-group-a46c766b092a.zip"
+    },
+    {
+      "id": "group:group-8d16c0b51497",
+      "kind": "group",
+      "name": "录音声学族工具包",
+      "group": "录音声学",
+      "category": "",
+      "toolIds": [
+        "audiolab",
+        "eartest"
+      ],
+      "toolCount": 2,
+      "bytes": 26498,
+      "sha256": "58b962662b53cb5259f84621d022e6e14768406de4f53e631374ff4e03080bbb",
+      "relativePath": "bundles/groups/group-8d16c0b51497/jinhe-tools-group-8d16c0b51497.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-8d16c0b51497/jinhe-tools-group-8d16c0b51497.zip"
+    },
+    {
+      "id": "group:group-d3d46b82e6e1",
+      "kind": "group",
+      "name": "待办笔记族工具包",
+      "group": "待办笔记",
+      "category": "",
+      "toolIds": [
+        "mdnote",
+        "mindmap"
+      ],
+      "toolCount": 2,
+      "bytes": 26715,
+      "sha256": "28be4ed4b0a5fcb7de11d56113ed6c7f6f123f423af05e0c2e3275423c883b58",
+      "relativePath": "bundles/groups/group-d3d46b82e6e1/jinhe-tools-group-d3d46b82e6e1.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-d3d46b82e6e1/jinhe-tools-group-d3d46b82e6e1.zip"
+    },
+    {
+      "id": "group:group-826128a9d469",
+      "kind": "group",
+      "name": "手速反应族工具包",
+      "group": "手速反应",
+      "category": "",
+      "toolIds": [
+        "cps",
+        "reaction"
+      ],
+      "toolCount": 2,
+      "bytes": 15340,
+      "sha256": "5a0edeb79eacf8d2116686212b4efc38f65ec597b78fb318c125923214f1f14e",
+      "relativePath": "bundles/groups/group-826128a9d469/jinhe-tools-group-826128a9d469.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-826128a9d469/jinhe-tools-group-826128a9d469.zip"
+    },
+    {
+      "id": "group:group-bc6629ad4405",
+      "kind": "group",
+      "name": "整活决策族工具包",
+      "group": "整活决策",
+      "category": "",
+      "toolIds": [
+        "tierlist",
+        "woodenfish"
+      ],
+      "toolCount": 2,
+      "bytes": 24755,
+      "sha256": "5160fe8078b845e575a631b0257a5f8ce7e244ebcd19d8ae213b937d18010647",
+      "relativePath": "bundles/groups/group-bc6629ad4405/jinhe-tools-group-bc6629ad4405.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-bc6629ad4405/jinhe-tools-group-bc6629ad4405.zip"
+    },
+    {
+      "id": "group:group-c82d6144ec50",
+      "kind": "group",
+      "name": "文件整理族工具包",
+      "group": "文件整理",
+      "category": "",
+      "toolIds": [
+        "filedesk",
+        "filemanager",
+        "filemanifest",
+        "manifestdiff"
+      ],
+      "toolCount": 4,
+      "bytes": 48565,
+      "sha256": "fcdcc5abbd9ccd43a658e0327e7ca892727878ec63fa5d58398ffe69c1eebaa8",
+      "relativePath": "bundles/groups/group-c82d6144ec50/jinhe-tools-group-c82d6144ec50.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-c82d6144ec50/jinhe-tools-group-c82d6144ec50.zip"
+    },
+    {
+      "id": "group:group-cc62cccb4371",
+      "kind": "group",
+      "name": "文档提词族工具包",
+      "group": "文档提词",
+      "category": "",
+      "toolIds": [
+        "pdf2txt"
+      ],
+      "toolCount": 1,
+      "bytes": 20139,
+      "sha256": "bbf5612aed60419dd4ec05360a4f390f68ecd0da4d62943e2b3616b3cefd4a61",
+      "relativePath": "bundles/groups/group-cc62cccb4371/jinhe-tools-group-cc62cccb4371.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-cc62cccb4371/jinhe-tools-group-cc62cccb4371.zip"
+    },
+    {
+      "id": "group:group-0fa38f8382e0",
+      "kind": "group",
+      "name": "日常算账族工具包",
+      "group": "日常算账",
+      "category": "",
+      "toolIds": [
+        "aasplit",
+        "ioscalc"
+      ],
+      "toolCount": 2,
+      "bytes": 20563,
+      "sha256": "4c2a50db06a9baf733dddd11c09d091e03fe8251f0449b1baef37cb06c924617",
+      "relativePath": "bundles/groups/group-0fa38f8382e0/jinhe-tools-group-0fa38f8382e0.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-0fa38f8382e0/jinhe-tools-group-0fa38f8382e0.zip"
+    },
+    {
+      "id": "group:group-734bfa95fd19",
+      "kind": "group",
+      "name": "日期提醒族工具包",
+      "group": "日期提醒",
+      "category": "",
+      "toolIds": [
+        "days",
+        "worldclock"
+      ],
+      "toolCount": 2,
+      "bytes": 32653,
+      "sha256": "e35c8d37fee60e65c6b9bbe730be56f6b1c39669d2c21565ca1b6823c5ed3dc6",
+      "relativePath": "bundles/groups/group-734bfa95fd19/jinhe-tools-group-734bfa95fd19.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-734bfa95fd19/jinhe-tools-group-734bfa95fd19.zip"
+    },
+    {
+      "id": "group:group-eb9488ef113c",
+      "kind": "group",
+      "name": "时间管理族工具包",
+      "group": "时间管理",
+      "category": "",
+      "toolIds": [
+        "pomodoro"
+      ],
+      "toolCount": 1,
+      "bytes": 9376,
+      "sha256": "b9919c2921995041eb5239724fe7d431ded051c91be66f7268dbd39e134d4e24",
+      "relativePath": "bundles/groups/group-eb9488ef113c/jinhe-tools-group-eb9488ef113c.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-eb9488ef113c/jinhe-tools-group-eb9488ef113c.zip"
+    },
+    {
+      "id": "group:group-53634894e133",
+      "kind": "group",
+      "name": "校园课程族工具包",
+      "group": "校园课程",
+      "category": "",
+      "toolIds": [
+        "coursetable"
+      ],
+      "toolCount": 1,
+      "bytes": 13514,
+      "sha256": "6c088b0ca156da650d4b750c13db0de867ea60eba6c75f4b09f574043553fb53",
+      "relativePath": "bundles/groups/group-53634894e133/jinhe-tools-group-53634894e133.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-53634894e133/jinhe-tools-group-53634894e133.zip"
+    },
+    {
+      "id": "group:group-1709f84637ad",
+      "kind": "group",
+      "name": "理科速查族工具包",
+      "group": "理科速查",
+      "category": "",
+      "toolIds": [
+        "elements"
+      ],
+      "toolCount": 1,
+      "bytes": 14260,
+      "sha256": "5037c5b988cf7d1fb266a7ca62e1fca698184897194b975c3f2a9fe3a59ffd5f",
+      "relativePath": "bundles/groups/group-1709f84637ad/jinhe-tools-group-1709f84637ad.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-1709f84637ad/jinhe-tools-group-1709f84637ad.zip"
+    },
+    {
+      "id": "group:group-016000235da0",
+      "kind": "group",
+      "name": "理财计算族工具包",
+      "group": "理财计算",
+      "category": "",
+      "toolIds": [
+        "eleccalc",
+        "mortgage",
+        "taxcalc"
+      ],
+      "toolCount": 3,
+      "bytes": 34811,
+      "sha256": "aaebeca5bd1d47e18c0f5eb6b9a0456e8589682cd5043ff90c5a3718a611254b",
+      "relativePath": "bundles/groups/group-016000235da0/jinhe-tools-group-016000235da0.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-016000235da0/jinhe-tools-group-016000235da0.zip"
+    },
+    {
+      "id": "group:group-e234adfe2db0",
+      "kind": "group",
+      "name": "益智游戏族工具包",
+      "group": "益智游戏",
+      "category": "",
+      "toolIds": [
+        "fifteen",
+        "g2048",
+        "g24",
+        "gomoku",
+        "mines",
+        "riddles",
+        "snake",
+        "sudoku",
+        "wordle"
+      ],
+      "toolCount": 9,
+      "bytes": 103505,
+      "sha256": "d3f0f953aef8adfa401fdfc37191ef4f28f8a253de2e899ce4c5f62fbc72c928",
+      "relativePath": "bundles/groups/group-e234adfe2db0/jinhe-tools-group-e234adfe2db0.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-e234adfe2db0/jinhe-tools-group-e234adfe2db0.zip"
+    },
+    {
+      "id": "group:group-1337b94c3453",
+      "kind": "group",
+      "name": "硬件传感族工具包",
+      "group": "硬件传感",
+      "category": "",
+      "toolIds": [
+        "screenlight",
+        "screentest"
+      ],
+      "toolCount": 2,
+      "bytes": 16311,
+      "sha256": "adfc34e2a4b1652c2e0050b831a88541b9888a9fc71ecf9271ddae08075b02a0",
+      "relativePath": "bundles/groups/group-1337b94c3453/jinhe-tools-group-1337b94c3453.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-1337b94c3453/jinhe-tools-group-1337b94c3453.zip"
+    },
+    {
+      "id": "group:group-50957843efd4",
+      "kind": "group",
+      "name": "编码解码族工具包",
+      "group": "编码解码",
+      "category": "",
+      "toolIds": [
+        "unicode"
+      ],
+      "toolCount": 1,
+      "bytes": 8309,
+      "sha256": "8aef05d26bd9a7fa819dabce8c4acc530dcb29845d953d7ed63ea9d6b0887bb9",
+      "relativePath": "bundles/groups/group-50957843efd4/jinhe-tools-group-50957843efd4.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-50957843efd4/jinhe-tools-group-50957843efd4.zip"
+    },
+    {
+      "id": "group:group-a5dc9a1212ba",
+      "kind": "group",
+      "name": "网络工具族工具包",
+      "group": "网络工具",
+      "category": "",
+      "toolIds": [
+        "speedtest"
+      ],
+      "toolCount": 1,
+      "bytes": 12319,
+      "sha256": "6ea844875b821628098f5165e344ceaeebf4a74433bc74feb29d0b0db887e4fc",
+      "relativePath": "bundles/groups/group-a5dc9a1212ba/jinhe-tools-group-a5dc9a1212ba.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-a5dc9a1212ba/jinhe-tools-group-a5dc9a1212ba.zip"
+    },
+    {
+      "id": "group:group-e349e4c54efe",
+      "kind": "group",
+      "name": "网络文件族工具包",
+      "group": "网络文件",
+      "category": "",
+      "toolIds": [
+        "downloader"
+      ],
+      "toolCount": 1,
+      "bytes": 8489,
+      "sha256": "28fab8648ad56b12c49ef12dd05e30fb3df64fdd4d6f9bce580552eef64ed5b7",
+      "relativePath": "bundles/groups/group-e349e4c54efe/jinhe-tools-group-e349e4c54efe.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-e349e4c54efe/jinhe-tools-group-e349e4c54efe.zip"
+    },
+    {
+      "id": "group:group-f148a2bd4c32",
+      "kind": "group",
+      "name": "行情财经族工具包",
+      "group": "行情财经",
+      "category": "",
+      "toolIds": [
+        "exchrate"
+      ],
+      "toolCount": 1,
+      "bytes": 8691,
+      "sha256": "bcc8e94097609732b3580704d4d022de974731053ed1002cf213779f33c843bd",
+      "relativePath": "bundles/groups/group-f148a2bd4c32/jinhe-tools-group-f148a2bd4c32.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-f148a2bd4c32/jinhe-tools-group-f148a2bd4c32.zip"
+    },
+    {
+      "id": "group:group-03c2f79dbf7b",
+      "kind": "group",
+      "name": "记忆专注族工具包",
+      "group": "记忆专注",
+      "category": "",
+      "toolIds": [
+        "memory",
+        "schulte",
+        "simon"
+      ],
+      "toolCount": 3,
+      "bytes": 26023,
+      "sha256": "300b296a00becf44fe8c85533ba4c20f41f403df79e40fbf73db7d2b3d653891",
+      "relativePath": "bundles/groups/group-03c2f79dbf7b/jinhe-tools-group-03c2f79dbf7b.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-03c2f79dbf7b/jinhe-tools-group-03c2f79dbf7b.zip"
+    },
+    {
+      "id": "group:group-f647f3a263ae",
+      "kind": "group",
+      "name": "记账参考族工具包",
+      "group": "记账参考",
+      "category": "",
+      "toolIds": [
+        "ledger",
+        "relatives",
+        "sizechart"
+      ],
+      "toolCount": 3,
+      "bytes": 31734,
+      "sha256": "76ab29428f034335ae1ca03c6e28e6e185bbd1b66a4c54876d4c0d1e471b0b67",
+      "relativePath": "bundles/groups/group-f647f3a263ae/jinhe-tools-group-f647f3a263ae.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-f647f3a263ae/jinhe-tools-group-f647f3a263ae.zip"
+    },
+    {
+      "id": "group:group-c335ecaf15fe",
+      "kind": "group",
+      "name": "证件密码族工具包",
+      "group": "证件密码",
+      "category": "",
+      "toolIds": [
+        "bankbin",
+        "idcard",
+        "passbook"
+      ],
+      "toolCount": 3,
+      "bytes": 83265,
+      "sha256": "9d8f7e56b9fcc00bf89355dc3a457838fb19fa58b7e2b702ec5215cee8863a02",
+      "relativePath": "bundles/groups/group-c335ecaf15fe/jinhe-tools-group-c335ecaf15fe.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-c335ecaf15fe/jinhe-tools-group-c335ecaf15fe.zip"
+    },
+    {
+      "id": "group:group-8996778bc9d7",
+      "kind": "group",
+      "name": "语言输入族工具包",
+      "group": "语言输入",
+      "category": "",
+      "toolIds": [
+        "dailyeng",
+        "typing"
+      ],
+      "toolCount": 2,
+      "bytes": 49759,
+      "sha256": "253d8506787ef9fa26b8bc6e2adb3bc950875a4274d0266867f70e51ebbb14a3",
+      "relativePath": "bundles/groups/group-8996778bc9d7/jinhe-tools-group-8996778bc9d7.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-8996778bc9d7/jinhe-tools-group-8996778bc9d7.zip"
+    },
+    {
+      "id": "group:group-af968b9b9f2e",
+      "kind": "group",
+      "name": "车辆出行族工具包",
+      "group": "车辆出行",
+      "category": "",
+      "toolIds": [
+        "carplate",
+        "fuelcalc"
+      ],
+      "toolCount": 2,
+      "bytes": 19844,
+      "sha256": "9be5c2b38c80c1abac4f743613d92bb24df7a39993b42e5d02827f1298d79e6f",
+      "relativePath": "bundles/groups/group-af968b9b9f2e/jinhe-tools-group-af968b9b9f2e.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-af968b9b9f2e/jinhe-tools-group-af968b9b9f2e.zip"
+    },
+    {
+      "id": "group:group-89f0dd2c14ab",
+      "kind": "group",
+      "name": "音乐声音族工具包",
+      "group": "音乐声音",
+      "category": "",
+      "toolIds": [
+        "instrument_box",
+        "metronome",
+        "piano",
+        "score_player",
+        "super_band",
+        "whitenoise"
+      ],
+      "toolCount": 6,
+      "bytes": 248412,
+      "sha256": "a683a3b376b03e3d76f2b78a981c1b9ab9f5c32bfa20b4d2d9463c16f618ac9b",
+      "relativePath": "bundles/groups/group-89f0dd2c14ab/jinhe-tools-group-89f0dd2c14ab.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-89f0dd2c14ab/jinhe-tools-group-89f0dd2c14ab.zip"
+    },
+    {
+      "id": "group:group-5ad36c5aaf45",
+      "kind": "group",
+      "name": "颜色配色族工具包",
+      "group": "颜色配色",
+      "category": "",
+      "toolIds": [
+        "chinesecolors",
+        "palettegen"
+      ],
+      "toolCount": 2,
+      "bytes": 20981,
+      "sha256": "f6b50c5022d2e5562db874a8d21b8785973f4fd86049c22e9e3ab089418abb58",
+      "relativePath": "bundles/groups/group-5ad36c5aaf45/jinhe-tools-group-5ad36c5aaf45.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-5ad36c5aaf45/jinhe-tools-group-5ad36c5aaf45.zip"
+    },
+    {
+      "id": "group:group-4b8953dd470d",
+      "kind": "group",
+      "name": "骰子抽签族工具包",
+      "group": "骰子抽签",
+      "category": "",
+      "toolIds": [
+        "answers",
+        "dice",
+        "sign"
+      ],
+      "toolCount": 3,
+      "bytes": 58840,
+      "sha256": "412467d1241051515792498e229babfb3a418bd7cae6fbbaddcf39a451e222db",
+      "relativePath": "bundles/groups/group-4b8953dd470d/jinhe-tools-group-4b8953dd470d.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/groups/group-4b8953dd470d/jinhe-tools-group-4b8953dd470d.zip"
+    },
+    {
+      "id": "category:text",
+      "kind": "category",
+      "name": "文本分类工具包",
+      "group": "",
+      "category": "文本",
+      "toolIds": [
+        "unicode"
+      ],
+      "toolCount": 1,
+      "bytes": 8307,
+      "sha256": "33e275bb4964a86182cd8a2a9dc5e4275184122b9fd8e46397543a1432e6141f",
+      "relativePath": "bundles/categories/text/jinhe-tools-text.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/categories/text/jinhe-tools-text.zip"
+    },
+    {
+      "id": "category:images",
+      "kind": "category",
+      "name": "图片分类工具包",
+      "group": "",
+      "category": "图片",
+      "toolIds": [
+        "barcode",
+        "chinesecolors",
+        "dialogueboard",
+        "drawpad",
+        "palettegen",
+        "pixelart",
+        "text2img",
+        "wallpaper",
+        "watermark"
+      ],
+      "toolCount": 9,
+      "bytes": 107415,
+      "sha256": "1cb605fe904d64073a69d7fd43ce6ebdc219c98e80b0b6dfbc889ac2dc343c57",
+      "relativePath": "bundles/categories/images/jinhe-tools-images.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/categories/images/jinhe-tools-images.zip"
+    },
+    {
+      "id": "category:calculations",
+      "kind": "category",
+      "name": "计算分类工具包",
+      "group": "",
+      "category": "计算",
+      "toolIds": [
+        "aasplit",
+        "eleccalc",
+        "health",
+        "ioscalc",
+        "mortgage",
+        "taxcalc",
+        "tdee"
+      ],
+      "toolCount": 7,
+      "bytes": 75473,
+      "sha256": "c211773c88566fe0b890d042d4a378df19712a00abd3078c54c96e33beca0ead",
+      "relativePath": "bundles/categories/calculations/jinhe-tools-calculations.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/categories/calculations/jinhe-tools-calculations.zip"
+    },
+    {
+      "id": "category:productivity",
+      "kind": "category",
+      "name": "效率分类工具包",
+      "group": "",
+      "category": "效率",
+      "toolIds": [
+        "apk1",
+        "filedesk",
+        "filemanager",
+        "filemanifest",
+        "manifestdiff",
+        "mdnote",
+        "mindmap",
+        "pdf2txt",
+        "pomodoro",
+        "webapk"
+      ],
+      "toolCount": 10,
+      "bytes": 116532,
+      "sha256": "3f728bde124da482e134c13d910462754573ac55de3313bdffe115e52fd601d1",
+      "relativePath": "bundles/categories/productivity/jinhe-tools-productivity.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/categories/productivity/jinhe-tools-productivity.zip"
+    },
+    {
+      "id": "category:media",
+      "kind": "category",
+      "name": "媒体分类工具包",
+      "group": "",
+      "category": "媒体",
+      "toolIds": [
+        "audiolab",
+        "eartest",
+        "instrument_box",
+        "metronome",
+        "piano",
+        "score_player",
+        "super_band",
+        "whitenoise"
+      ],
+      "toolCount": 8,
+      "bytes": 274588,
+      "sha256": "9937927360636dd28002471a90c3d28669ac675ee8302cadd7b4b8c222cb2a8e",
+      "relativePath": "bundles/categories/media/jinhe-tools-media.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/categories/media/jinhe-tools-media.zip"
+    },
+    {
+      "id": "category:life",
+      "kind": "category",
+      "name": "生活分类工具包",
+      "group": "",
+      "category": "生活",
+      "toolIds": [
+        "bankbin",
+        "carplate",
+        "days",
+        "fuelcalc",
+        "idcard",
+        "ledger",
+        "passbook",
+        "relatives",
+        "screenlight",
+        "screentest",
+        "sizechart",
+        "sleepcalc",
+        "water",
+        "weight",
+        "worldclock"
+      ],
+      "toolCount": 15,
+      "bytes": 215518,
+      "sha256": "967f039cc785569bc863c7f42557cbfb5f8e07c6f86e70504c16dca08297c24d",
+      "relativePath": "bundles/categories/life/jinhe-tools-life.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/categories/life/jinhe-tools-life.zip"
+    },
+    {
+      "id": "category:games",
+      "kind": "category",
+      "name": "娱乐分类工具包",
+      "group": "",
+      "category": "娱乐",
+      "toolIds": [
+        "answers",
+        "cps",
+        "dice",
+        "fifteen",
+        "g2048",
+        "g24",
+        "gomoku",
+        "memory",
+        "mines",
+        "reaction",
+        "riddles",
+        "schulte",
+        "sign",
+        "simon",
+        "snake",
+        "sudoku",
+        "tierlist",
+        "woodenfish",
+        "wordle"
+      ],
+      "toolCount": 19,
+      "bytes": 227146,
+      "sha256": "89aa71aa1e048962716a6b021720ebe132419b1c4decb4dd581464f20d63fcb2",
+      "relativePath": "bundles/categories/games/jinhe-tools-games.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/categories/games/jinhe-tools-games.zip"
+    },
+    {
+      "id": "category:learning",
+      "kind": "category",
+      "name": "学习分类工具包",
+      "group": "",
+      "category": "学习",
+      "toolIds": [
+        "coursetable",
+        "dailyeng",
+        "elements",
+        "typing"
+      ],
+      "toolCount": 4,
+      "bytes": 76907,
+      "sha256": "a02d657d44f82b7c3d23e426981555e3d7c11dcd28b00f3d2457913419545115",
+      "relativePath": "bundles/categories/learning/jinhe-tools-learning.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/categories/learning/jinhe-tools-learning.zip"
+    },
+    {
+      "id": "category:online",
+      "kind": "category",
+      "name": "联网分类工具包",
+      "group": "",
+      "category": "联网",
+      "toolIds": [
+        "downloader",
+        "exchrate",
+        "hitokoto",
+        "speedtest"
+      ],
+      "toolCount": 4,
+      "bytes": 39302,
+      "sha256": "546c7e10fafc57f205cb79c655b121bbb713524f713851402111edae83aacae4",
+      "relativePath": "bundles/categories/online/jinhe-tools-online.zip",
+      "url": "https://raw.githubusercontent.com/moxuewang/jinhe-plugins/main/bundles/categories/online/jinhe-tools-online.zip"
+    }
+  ]
+}
